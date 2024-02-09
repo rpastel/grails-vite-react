@@ -35,7 +35,7 @@ Find the war file in `build/libs/grailsvitereact.war`. Run the war by entering
 java -jar build/libs/grailsvitereact.war
 ```
 ## References
-- [Grails documentation](https://docs.grails.org/5.3.3/guide/single.html
+- [Grails documentation](https://docs.grails.org/5.3.3/guide/single.html)
 - [Grails Asset-Pipeline documentation](http://www.asset-pipeline.com/manual/index.html) especially see [configuration](http://www.asset-pipeline.com/manual/index.html#configuration)
 - [Groovy Server Pages documentation](https://gsp.grails.org/latest/guide/index.html), especially the [if tag](https://gsp.grails.org/latest/ref/Tags/if.html)
 - [Gradle documentation](https://docs.gradle.org/7.2/userguide/userguide.html)
