@@ -1,4 +1,4 @@
-package vitereact2
+package grailsvitereact
 
 class CounterController {
 

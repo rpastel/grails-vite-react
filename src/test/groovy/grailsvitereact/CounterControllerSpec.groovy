@@ -1,4 +1,4 @@
-package vitereact2
+package grailsvitereact
 
 import grails.testing.web.controllers.ControllerUnitTest
 import spock.lang.Specification
