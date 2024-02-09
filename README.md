@@ -45,5 +45,5 @@ java -jar build/libs/grailsvitereact.war
 - [Vite guide](https://vitejs.dev/guide/), especially see [backend intergeration](https://vitejs.dev/guide/backend-integration.html), [plugin ordering documentation](https://vitejs.dev/guide/api-plugin.html#plugin-ordering)
 - [Rollup tutorial](https://rollupjs.org/tutorial/), especially see [using configuration](https://rollupjs.org/tutorial/#using-config-files) for [input](https://rollupjs.org/configuration-options/#input) and [out-entry file naming](https://rollupjs.org/configuration-options/#output-entryfilenames)
 - [Rollup Image Plugin repository](https://github.com/rollup/plugins/tree/master/packages/image)
-- [SDK Man site](https://sdkman.io/) to [install](https://sdkman.io/install) and [usage](https://sdkman.io/usage)
+- [SDK Man site](https://sdkman.io/) to [install](https://sdkman.io/install) and [use](https://sdkman.io/usage)
 - Finally the [React documentation](https://react.dev/learn)
