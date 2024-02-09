@@ -21,7 +21,7 @@ Open terminal in project root, and enter
 sdk env install
 ./gradlew bootRun
 ```
-Open another terminal in project root, and enter\
+Open another terminal in project root, and enter
 ```
 sdk env install
 ./gradlew dev
