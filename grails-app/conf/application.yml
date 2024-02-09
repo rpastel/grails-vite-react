@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: vitereact2
+        defaultPackage: grailsvitereact
     gorm:
         reactor:
             # Whether to translate GORM events into Reactor events

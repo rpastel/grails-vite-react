@@ -37,6 +37,7 @@ java -jar build/libs/grailsvitereact.war
 ## References
 - [Grails documentation](https://docs.grails.org/5.3.3/guide/single.html
 - [Grails Asset-Pipeline documentation](http://www.asset-pipeline.com/manual/index.html) especially see [configuration](http://www.asset-pipeline.com/manual/index.html#configuration)
+- [Groovy Server Pages documentation](https://gsp.grails.org/latest/guide/index.html), especially the [if tag](https://gsp.grails.org/latest/ref/Tags/if.html)
 - [Gradle documentation](https://docs.gradle.org/7.2/userguide/userguide.html)
 - [Node Gradle Plugin repository](https://github.com/node-gradle/gradle-node-plugin?tab=readme-ov-file)
 - [Vite guide](https://vitejs.dev/guide/), especially see [backend intergeration](https://vitejs.dev/guide/backend-integration.html), [plugin ordering documentation](https://vitejs.dev/guide/api-plugin.html#plugin-ordering)

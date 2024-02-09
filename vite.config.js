@@ -9,6 +9,7 @@ export default defineConfig({
     react(),
     // https://vite-rollup-plugins.patak.dev/#image
     // https://vitejs.dev/guide/api-plugin.html#plugin-ordering
+    // https://github.com/rollup/plugins/tree/master/packages/image
     {
       ...image(),
       enforce: 'pre'
